@@ -9,10 +9,11 @@ public:
     }   
     string c=k;
     reverse(c.begin(),c.end());
-    if(c==k){
-    return 1;
-    }else{
-        return 0;
-    } 
+    // if(c==k){
+    // return 1;
+    // }else{
+    //     return 0;
+    // } 
+    return c==k;
     }
 };
