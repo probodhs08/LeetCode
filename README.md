@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/probodhs08/LeetCode/tree/master/0007-reverse-integer) |
+| [0367-valid-perfect-square](https://github.com/probodhs08/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/probodhs08/LeetCode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/probodhs08/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/probodhs08/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/probodhs08/LeetCode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
