@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/probodhs08/LeetCode/tree/master/0125-valid-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/probodhs08/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/probodhs08/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/probodhs08/LeetCode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/probodhs08/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/probodhs08/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/probodhs08/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/probodhs08/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/probodhs08/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/probodhs08/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/probodhs08/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/probodhs08/LeetCode/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/probodhs08/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/probodhs08/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
