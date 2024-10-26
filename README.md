@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/probodhs08/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/probodhs08/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/probodhs08/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/probodhs08/LeetCode/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/probodhs08/LeetCode/tree/master/0670-maximum-swap) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/probodhs08/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/probodhs08/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/probodhs08/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/probodhs08/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/probodhs08/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/probodhs08/LeetCode/tree/master/0414-third-maximum-number) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/probodhs08/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/probodhs08/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Stack
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/probodhs08/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/probodhs08/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/probodhs08/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/probodhs08/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/probodhs08/LeetCode/tree/master/0414-third-maximum-number) |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/probodhs08/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/probodhs08/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/probodhs08/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/probodhs08/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/probodhs08/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/probodhs08/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/probodhs08/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/probodhs08/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/probodhs08/LeetCode/tree/master/0367-valid-perfect-square) |
