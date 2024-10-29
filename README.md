@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/probodhs08/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/probodhs08/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/probodhs08/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/probodhs08/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/probodhs08/LeetCode/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/probodhs08/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/probodhs08/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/probodhs08/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/probodhs08/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/probodhs08/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
