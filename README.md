@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/probodhs08/LeetCode/tree/master/0125-valid-palindrome) |
+| [0812-rotate-string](https://github.com/probodhs08/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/probodhs08/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/probodhs08/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/probodhs08/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/probodhs08/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/probodhs08/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/probodhs08/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
