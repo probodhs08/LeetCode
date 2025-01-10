@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/probodhs08/LeetCode/tree/master/0125-valid-palindrome) |
 | [0812-rotate-string](https://github.com/probodhs08/LeetCode/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/probodhs08/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/probodhs08/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/probodhs08/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/probodhs08/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/probodhs08/LeetCode/tree/master/0414-third-maximum-number) |
 | [0787-sliding-puzzle](https://github.com/probodhs08/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/probodhs08/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/probodhs08/LeetCode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/probodhs08/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/probodhs08/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/probodhs08/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/probodhs08/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/probodhs08/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0952-word-subsets](https://github.com/probodhs08/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/probodhs08/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/probodhs08/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/probodhs08/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
