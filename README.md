@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/probodhs08/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/probodhs08/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/probodhs08/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/probodhs08/LeetCode/tree/master/0414-third-maximum-number) |
 | [0787-sliding-puzzle](https://github.com/probodhs08/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/probodhs08/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/probodhs08/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/probodhs08/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/probodhs08/LeetCode/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/probodhs08/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/probodhs08/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/probodhs08/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/probodhs08/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/probodhs08/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/probodhs08/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/probodhs08/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/probodhs08/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/probodhs08/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
