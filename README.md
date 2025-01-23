@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/probodhs08/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/probodhs08/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/probodhs08/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/probodhs08/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -466,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/probodhs08/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/probodhs08/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
