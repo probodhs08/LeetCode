@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/probodhs08/LeetCode/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/probodhs08/LeetCode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/probodhs08/LeetCode/tree/master/1013-fibonacci-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/probodhs08/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/probodhs08/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/probodhs08/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/probodhs08/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/probodhs08/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/probodhs08/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2448-count-number-of-bad-pairs](https://github.com/probodhs08/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/probodhs08/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/probodhs08/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/probodhs08/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/probodhs08/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/probodhs08/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/probodhs08/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/probodhs08/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/probodhs08/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/probodhs08/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/probodhs08/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/probodhs08/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/probodhs08/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/probodhs08/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/probodhs08/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/probodhs08/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/probodhs08/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
