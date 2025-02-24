@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/probodhs08/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/probodhs08/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/probodhs08/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/probodhs08/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/probodhs08/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/probodhs08/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/probodhs08/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/probodhs08/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/probodhs08/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/probodhs08/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/probodhs08/LeetCode/tree/master/0820-find-eventual-safe-states) |
