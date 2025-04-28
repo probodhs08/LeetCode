@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/probodhs08/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/probodhs08/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/probodhs08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/probodhs08/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/probodhs08/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/probodhs08/LeetCode/tree/master/0136-single-number) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/probodhs08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/probodhs08/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/probodhs08/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/probodhs08/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/probodhs08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/probodhs08/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/probodhs08/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
