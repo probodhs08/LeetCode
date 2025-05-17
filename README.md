@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/probodhs08/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/probodhs08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/probodhs08/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/probodhs08/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/probodhs08/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/probodhs08/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/probodhs08/LeetCode/tree/master/0162-find-peak-element) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/probodhs08/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/probodhs08/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/probodhs08/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/probodhs08/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/probodhs08/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/probodhs08/LeetCode/tree/master/0189-rotate-array) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/probodhs08/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/probodhs08/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/probodhs08/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
