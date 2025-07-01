@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/probodhs08/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/probodhs08/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/probodhs08/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/probodhs08/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/probodhs08/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/probodhs08/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/probodhs08/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/probodhs08/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/probodhs08/LeetCode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/probodhs08/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/probodhs08/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/probodhs08/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/probodhs08/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/probodhs08/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/probodhs08/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/probodhs08/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/probodhs08/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/probodhs08/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/probodhs08/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/probodhs08/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/probodhs08/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/probodhs08/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/probodhs08/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/probodhs08/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/probodhs08/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/probodhs08/LeetCode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/probodhs08/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/probodhs08/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -687,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/probodhs08/LeetCode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/probodhs08/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/probodhs08/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/probodhs08/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/probodhs08/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/probodhs08/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/probodhs08/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
