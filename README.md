@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/probodhs08/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/probodhs08/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/probodhs08/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/probodhs08/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/probodhs08/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/probodhs08/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/probodhs08/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/probodhs08/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/probodhs08/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/probodhs08/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/probodhs08/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/probodhs08/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/probodhs08/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/probodhs08/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/probodhs08/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/probodhs08/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/probodhs08/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
