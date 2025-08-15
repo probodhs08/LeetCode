@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/probodhs08/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/probodhs08/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/probodhs08/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/probodhs08/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/probodhs08/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/probodhs08/LeetCode/tree/master/0507-perfect-number) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/probodhs08/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/probodhs08/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/probodhs08/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/probodhs08/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/probodhs08/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/probodhs08/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/probodhs08/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/probodhs08/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/probodhs08/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/probodhs08/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/probodhs08/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/probodhs08/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/probodhs08/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
