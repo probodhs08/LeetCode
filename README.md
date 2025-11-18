@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/probodhs08/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/probodhs08/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/probodhs08/LeetCode/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/probodhs08/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0787-sliding-puzzle](https://github.com/probodhs08/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/probodhs08/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/probodhs08/LeetCode/tree/master/0794-swim-in-rising-water) |
