@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/probodhs08/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0451-sort-characters-by-frequency](https://github.com/probodhs08/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/probodhs08/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0761-special-binary-string](https://github.com/probodhs08/LeetCode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/probodhs08/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/probodhs08/LeetCode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/probodhs08/LeetCode/tree/master/0868-push-dominoes) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/probodhs08/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/probodhs08/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/probodhs08/LeetCode/tree/master/0342-power-of-four) |
+| [0761-special-binary-string](https://github.com/probodhs08/LeetCode/tree/master/0761-special-binary-string) |
 | [1013-fibonacci-number](https://github.com/probodhs08/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/probodhs08/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/probodhs08/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
