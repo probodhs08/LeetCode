@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/probodhs08/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/probodhs08/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/probodhs08/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/probodhs08/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/probodhs08/LeetCode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/probodhs08/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/probodhs08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/probodhs08/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/probodhs08/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/probodhs08/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/probodhs08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/probodhs08/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/probodhs08/LeetCode/tree/master/0120-triangle) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/probodhs08/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/probodhs08/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/probodhs08/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/probodhs08/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/probodhs08/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/probodhs08/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/probodhs08/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -746,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/probodhs08/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/probodhs08/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/probodhs08/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/probodhs08/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
