@@ -832,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/probodhs08/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/probodhs08/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/probodhs08/LeetCode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/probodhs08/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/probodhs08/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/probodhs08/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/probodhs08/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
