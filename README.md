@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/probodhs08/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/probodhs08/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/probodhs08/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/probodhs08/LeetCode/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/probodhs08/LeetCode/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/probodhs08/LeetCode/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/probodhs08/LeetCode/tree/master/0679-24-game) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/probodhs08/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/probodhs08/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/probodhs08/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/probodhs08/LeetCode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/probodhs08/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/probodhs08/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/probodhs08/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/probodhs08/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/probodhs08/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/probodhs08/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/probodhs08/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/probodhs08/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/probodhs08/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/probodhs08/LeetCode/tree/master/0494-target-sum) |
