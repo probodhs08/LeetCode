@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/probodhs08/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/probodhs08/LeetCode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/probodhs08/LeetCode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/probodhs08/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/probodhs08/LeetCode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/probodhs08/LeetCode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/probodhs08/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1765,6 +1766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/probodhs08/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/probodhs08/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/probodhs08/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/probodhs08/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/probodhs08/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
