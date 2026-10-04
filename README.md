@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/probodhs08/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/probodhs08/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/probodhs08/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/probodhs08/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/probodhs08/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/probodhs08/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/probodhs08/LeetCode/tree/master/0756-pyramid-transition-matrix) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/probodhs08/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/probodhs08/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/probodhs08/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/probodhs08/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/probodhs08/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/probodhs08/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/probodhs08/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/probodhs08/LeetCode/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/probodhs08/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/probodhs08/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/probodhs08/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/probodhs08/LeetCode/tree/master/0799-champagne-tower) |
@@ -1089,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/probodhs08/LeetCode/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/probodhs08/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/probodhs08/LeetCode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/probodhs08/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/probodhs08/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/probodhs08/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/probodhs08/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -2594,6 +2598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/probodhs08/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/probodhs08/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/probodhs08/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/probodhs08/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/probodhs08/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/probodhs08/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/probodhs08/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
