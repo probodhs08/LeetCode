@@ -738,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/probodhs08/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/probodhs08/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/probodhs08/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/probodhs08/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/probodhs08/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/probodhs08/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/probodhs08/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -1164,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/probodhs08/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/probodhs08/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/probodhs08/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/probodhs08/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3001-apply-operations-to-maximize-score](https://github.com/probodhs08/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/probodhs08/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/probodhs08/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1232,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/probodhs08/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/probodhs08/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/probodhs08/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/probodhs08/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/probodhs08/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/probodhs08/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/probodhs08/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1638,6 +1641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/probodhs08/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/probodhs08/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/probodhs08/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/probodhs08/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2915-count-of-interesting-subarrays](https://github.com/probodhs08/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/probodhs08/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/probodhs08/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
