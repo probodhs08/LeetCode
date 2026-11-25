@@ -948,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/probodhs08/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/probodhs08/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/probodhs08/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/probodhs08/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1767,6 +1768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/probodhs08/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/probodhs08/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/probodhs08/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/probodhs08/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -1850,6 +1852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/probodhs08/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/probodhs08/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/probodhs08/LeetCode/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/probodhs08/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2419,12 +2422,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/probodhs08/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/probodhs08/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/probodhs08/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/probodhs08/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/probodhs08/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/probodhs08/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/probodhs08/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Brainteaser
 |  |
 | ------- |
@@ -2712,4 +2717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/probodhs08/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/probodhs08/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/probodhs08/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/probodhs08/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
